@@ -1,6 +1,7 @@
 .portfolio-header {
   position: relative;
-  background: url(images/orig-header-bg.jpg);
+  /* background: url(images/header-bg-2.jpg); */
+  background: white;
 }
 
 /* .is-compact .portfolio-header {
@@ -30,7 +31,6 @@
 
 .is-compact .portfolio-logo-row {
   min-height: auto;
-  background: rgb(239,250,254);
 }
 
 .portfolio-logo {
