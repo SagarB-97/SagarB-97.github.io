@@ -1,7 +1,7 @@
 .portfolio-header {
   position: relative;
-  /* background: url(images/header-bg-2.jpg); */
-  background: white;
+  background: url(images/header-bg-2.jpg);
+  /* background: white; */
 }
 
 /* .is-compact .portfolio-header {
